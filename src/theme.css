@@ -1,0 +1,7 @@
+/* Number Lab palette and display type. Shared components read these tokens. */
+:root {
+  --accent: #0b6a80;
+  --font-display: 'Fraunces Variable', 'Iowan Old Style', Georgia, serif;
+  --display-weight: 560;
+  --display-italic-weight: 420;
+}

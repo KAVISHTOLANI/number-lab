@@ -2,6 +2,8 @@
 
 Learn binary, decimal and hexadecimal: toggle real bits and watch all three bases update, practise six kinds of conversion at 4, 8 or 16 bits with escalating hints and worked explanations, and track mastery per conversion type.
 
+**Live demo:** [https://kavishtolani.github.io/number-lab/](https://kavishtolani.github.io/number-lab/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Explore](docs/explore.png)
 
 | Practice | Mobile |
@@ -38,3 +40,7 @@ npm run test:e2e   # Playwright smoke test (npm run e2e:install once if Chromium
 ## Future improvements
 
 - Two's complement and signed ranges; octal; timed challenge mode.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).

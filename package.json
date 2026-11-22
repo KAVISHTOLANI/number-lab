@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "Practise binary, decimal and hexadecimal conversion.",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",

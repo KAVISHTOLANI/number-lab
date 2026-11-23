@@ -1,5 +1,17 @@
 # Number Lab
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="Number Lab on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="Number Lab on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="Number Lab on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 Learn binary, decimal and hexadecimal: toggle real bits and watch all three bases update, practise six kinds of conversion at 4, 8 or 16 bits with escalating hints and worked explanations, and track mastery per conversion type.
 
 **Live demo:** [https://kavishtolani.github.io/number-lab/](https://kavishtolani.github.io/number-lab/) — runs entirely in your browser; demo data is fictional and labelled.
